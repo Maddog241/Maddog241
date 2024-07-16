@@ -1,4 +1,3 @@
-- 👋 Hi, I am Maddog241
-- 🎓 Senior undergraduate student majoring in CS
+- 👋 Hi, I am Maddog241, a first year master student.
 - 🏗️ Interested in software engineering in fields such as computer graphics, operating systems, hpc and so on 
-- 🤖 Currently learning 3D vision
+- 🤖 Currently learning 3D vision, especially 3d reconstruction.
