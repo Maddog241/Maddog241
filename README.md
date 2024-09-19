@@ -1,3 +1,4 @@
-- 👋 Hi, I am Maddog241, a first year master student.
-- 🏗️ Interested in software engineering in fields such as computer graphics, operating systems, hpc and so on 
-- 🤖 Currently learning 3D vision, especially 3d reconstruction.
+- 👋 Hi, I am Maddog241
+- 🌱 I am currently a first year master student at SIGS, Tsinghua University.
+- 🎩 Previously, I got my bachelor's degree in Computer Science from Shanghai Jiao Tong University (IEEE Class)
+- 🏗️ Interest broadly lies in vision and graphics fields. Currently working on radiance field editing methods.
